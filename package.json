@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Gabriel C",
-	"description": "I am not sure what this project does :)"
+	"description": "I am not sure what this project does :)",
+	"keywords": [ "unknown", "new", "project", "freecodecamp" ]
 }

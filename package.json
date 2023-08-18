@@ -13,5 +13,6 @@
 	},
 	"author": "Gabriel C",
 	"description": "I am not sure what this project does :)",
-	"keywords": [ "unknown", "new", "project", "freecodecamp" ]
+	"keywords": [ "unknown", "new", "project", "freecodecamp" ],
+	"license": "LGPL-3.0-or-later"
 }
